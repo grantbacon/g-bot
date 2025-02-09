@@ -1,0 +1,5 @@
+python-dotenv
+pre-commit
+signalbot
+geopy
+requests

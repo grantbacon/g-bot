@@ -1,0 +1,13 @@
+[project]
+name = "signal-bot"
+version = "0.1.0"
+description = "A fun lil utility bot for Signal"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "geopy>=2.4.1",
+    "pre-commit>=4.1.0",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+    "signalbot>=0.12.0",
+]
